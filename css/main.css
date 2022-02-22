@@ -16,8 +16,8 @@ section { display: flex;}
 .center { justify-content: center;}
 .space-between { justify-content: space-between;}
 .btn { cursor: pointer; border:0; padding: 6px 12px; border-radius: 3px; line-height: 1.4}
-.btn-primary { background: #364147; color: #fff; }
-.btn-default { background: #faa541; color:  #fff;}
+.btn-primary { background: #364147; color:#ffffff; }
+.btn-default { background: #faa541; color:#ffffff;}
 .form-control { display: block; padding: 6px 12px; border: 1px solid #a0a0a0; color: #8598a2; line-height: 1.4;}
 .text-light { font-size: 30px; color: #a0a0a0;}
 .text-secondary { font-size: 30px; color: #faa541;}
