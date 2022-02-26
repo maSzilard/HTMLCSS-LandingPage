@@ -78,7 +78,7 @@ section { display: flex;}
 }
 
 .full-banner:before {
-    content: '';
+    content: "";
     position: absolute;
     border: 1px solid #ffffff;
     top: 30px;
